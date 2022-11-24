@@ -7,8 +7,8 @@
 
 
 // Replace the next variables with your SSID/Password combination
-const char* ssid = "GOMEZ";//"vanguardIOT";
-const char* password = "familiagomez310";//"12345678";
+const char* ssid = "name";
+const char* password = "password";
 
 // Add your MQTT Broker IP address, example:
 //const char* mqtt_server = "192.168.1.144";
